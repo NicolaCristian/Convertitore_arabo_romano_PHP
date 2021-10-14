@@ -42,8 +42,17 @@ echo $num_romano;
 
 $rom=$_GET['rom'];
 $num_dec=" ";
+strlen($str);
 
 
+$str = "Hello World";
+
+
+for ($mul = 0; $mul <= strlen($str); ++$mul) {
+    echo strlen($title);
+    substr($string, $start, $lenght);
+    }
+;
 
 ?>
   </body>
