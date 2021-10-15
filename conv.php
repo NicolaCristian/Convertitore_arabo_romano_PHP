@@ -52,7 +52,7 @@ for ($mul = 0; $mul <= strlen($str); ++$mul) {
     echo strlen($title);
     substr($string, $start, $lenght);
     }
-;
+
 
 ?>
   </body>
